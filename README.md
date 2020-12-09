@@ -4,10 +4,11 @@ TestaViva needs a system to record notes for a document. The Document is discuss
 that conversation notes will be taken for a given paragraph. The lawyer may then use these notes to remind them what 
 actions he has agreed to, ex. a correction or amendment.
 
-#### Backend
+## Task
+### Backend
 In the backend it should be possible to create, read, update but not delete notes.
 
-#### Frontend
+### Frontend
 A frontend in whatever language you prefer ex. Vue, React, Angular... should provide an interface to show/select/edit 
 the legal documents. A method that allows the lawyer to add a comment to a paragraph (footnote or side margin or 
 somewhere else ?). 
@@ -29,6 +30,9 @@ We have provided a
 * Use whichever database technology you are comfortable with.
 * The code should be clean.
 
+## Hand in
 Please fork the repository, write your code, and push it back up to this repository as a feature branch, using your own name as branch name ex. feature/JensJensen, and make pull request.
 
 Please note that this test should take 3-4 hours, but we will not check the time used from the pushes.
+
+# Have fun :-)
